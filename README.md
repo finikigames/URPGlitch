@@ -27,7 +27,7 @@ or add the following URL to `Package/manifest.json -> dependencies`.
 ```json
 {
   "dependencies": {
-    "com.mao-test-h.urp-glitch": "https://github.com/mao-test-h/URPGlitch.git?path=Assets/URPGlitch",
+    "com.mao-test-h.urp-glitch": "https://github.com/finikigames/URPGlitch.git?path=Assets/URPGlitch",
   }
 }
 ```
